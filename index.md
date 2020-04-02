@@ -8,7 +8,7 @@ Dabei ist der **Datenmanagementplan (DMP)** nur formaler Ausdruck von Überlegun
 
 Da es beim FDM gilt, viele Aspekte im Auge zu behalten, ist die Erstellung eines strukturierten Datenmanagementplans essentieller Bestandteil. Schließlich gibt es hilfreiche Vorlagen, welche Verwendung finden können und auch Unerfahrenen den Zugang erleichtern (teils auch der fördernden Institutionen selbst).
 
-Generell gilt: Nehmen Sie sich die nötige Zeit und beziehen sie bei der Ausarbeitung ihrer Strategie alle nötigen Personen mit ein. Klären sie Sachverhalte mit entsprechenden Stellen an ihrer Institution (DH-Spezialisten, Datenwissenschaftler, Datenschutzbeauftragte, IT-Mitarbeiter) bzw. auch darüber hinaus (KompetenzWerkD?).
+Generell gilt: Nehmen Sie sich die nötige Zeit und beziehen sie bei der Ausarbeitung ihrer Strategie alle nötigen Personen mit ein. Klären sie Sachverhalte mit entsprechenden Stellen an ihrer Institution (DH-Spezialisten, Datenwissenschaftler, Datenschutzbeauftragte, IT-Mitarbeiter) bzw. auch darüber hinaus (Kontaktieren sie gerne ihr KompetenzWerkD).
 
 #### Ein DMP besteht in der Regel aus folgenden Punkten
 * Administrative Angaben (Projektname, Fördernummer,
