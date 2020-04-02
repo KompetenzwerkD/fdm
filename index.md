@@ -43,7 +43,7 @@ Datenurheber, Mitwirkende, Kontakt, Förderprogramm usw.)
 #### Vorgaben der Förderinstitutionen
 
 * [DFG – Leitlinien zum Umgang mit Forschungsdaten](https://www.dfg.de/foerderung/antrag_gutachter_gremien/antragstellende/nachnutzung_forschungsdaten/index.html)
-* [Europäische Kommission – Programme Guidelines on FAIR Data Management in Horizon 2020](http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf]
+* [Europäische Kommission – Programme Guidelines on FAIR Data Management in Horizon 2020](http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf)
 
 #### Forschungsdatenrepositorien
 
