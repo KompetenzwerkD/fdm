@@ -45,7 +45,7 @@ Datenurheber, Mitwirkende, Kontakt, Förderprogramm usw.)
 * [DFG – Leitlinien zum Umgang mit Forschungsdaten](https://www.dfg.de/foerderung/antrag_gutachter_gremien/antragstellende/nachnutzung_forschungsdaten/index.html)
 * [Europäische Kommission – Programme Guidelines on FAIR Data Management in Horizon 2020](http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf)
 
-#### Forschungsdatenrepositorien
+#### Forschungsdatenrepositorien finden
 
 Um Forschungsdaten entsprechend der FAIR-Prinzipien auffindbar, zugänglich und langfristig aufzubewahren, ist die Bereitstellung über ein nachhaltig betriebenes Forschungsdatenrepositorium anzuraten.
 Mittelfristig werden hier vermutlich die NFDI-Initiativen eine wichtige Rolle spielen. Momentan können sich unter anderem folgende Anlaufstellen als hilfreich erweisen:
@@ -53,14 +53,14 @@ Mittelfristig werden hier vermutlich die NFDI-Initiativen eine wichtige Rolle sp
 * [Repositoriensuche in der Registry of Research Data Repositories zum Aufspüren fachspezifischer Repositorien](https://www.re3data.org/)
 * [Zenodo – Das offene fächerübergreifende Forschungsdatenrepositorium des CERN](https://zenodo.org/)
 
-#### Normdaten, Onotologien und Vokabulare
+#### Normdaten, Onotologien und Vokabulare nutzen
 
 Die Verbindung der eigenen Daten mit in der jeweiligen Fachcommunity verbreiteten Normdaten
 erhöht die Wiederverwendbarkeit und Interoperabilität von Datensätzen ungemein.
 
 Ene Unterstützung beim beim Finden existierender Ressourcen bietet das [Basel Register of Thesauri, Ontologies & Classifications](http://www.bartoc.org/)
 
-#### Metadaten
+#### Metadaten erstellen
 
 Zur Dokumentation der eigenen Forschungsdaten ist die Erstellung begleitender Metadaten unverzichtbar. Es existiert eine Vielzahl verschiedener Standards und Formate. Übersichten zu DH-spezifischen Technologien bieten die folgenden Links.
 
