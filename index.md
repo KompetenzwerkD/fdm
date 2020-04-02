@@ -2,7 +2,7 @@
 
 *„Laut Projektförderer brauchen wir einen Datenmanagementplan – mach mal!“*
 
-...So beginnen in Projekten oft die Überlegungen bezüglich des Forschungsdatenmanagements.
+...so beginnen in Projekten oft die Überlegungen bezüglich des Forschungsdatenmanagements.
 
 Dabei ist der **Datenmanagementplan (DMP)** nur formaler Ausdruck von Überlegungen, die ein zentraler Punkt der Planung jedes Forschungsvorhabens sein sollten: Sicherzustellen,  dass jene (digitalen) Daten, die im Forschungsprozess entstehen auch nutzbar sind. Dies betrifft die Verwendung als Arbeitskopie für Forschungstätigkeiten im Projekt selbst, die Aufbewahrung als Dokumentation der eigenen Arbeit und die Nachnutzung für spätere Forschung. Denn: Ihre Forschungsdaten und -ergebnisse sind wertvoll, aber nur durch ausreichende Dokumentation und nachhaltige Aufbewahrung dauerhaft für sie und andere auch verwendbar. Dabei spielen – wie so oft – die [**FAIR-Data-Prinzipien**](https://www.go-fair.org/fair-principles/) (Auffindbarkeit, Zugänglichkeit, Interoperabilität, Wiederverwendbarkeit) eine entscheidende Rolle. 
 
@@ -21,7 +21,7 @@ Datenurheber, Mitwirkende, Kontakt, Förderprogramm usw.)
 * Verantwortlichkeiten (Wer ist für den DMP verantwortlich, wer für Einzelaspekte des FDM?)
 * Kostenfragen (Welche Ressourcen – personell und materiell – sind für die Maßnahmen nötig?)
 
-## Links zu den Themen FDM und DMP
+## Weiterführende Informationen zu den Themen FDM und DMP
 
 #### Übersichten
 
