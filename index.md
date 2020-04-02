@@ -10,7 +10,7 @@ Da es beim FDM gilt, viele Aspekte im Auge zu behalten, ist die Erstellung eines
 
 Generell gilt: Nehmen Sie sich die nötige Zeit und beziehen sie bei der Ausarbeitung ihrer Strategie alle nötigen Personen mit ein. Klären sie Sachverhalte mit entsprechenden Stellen an ihrer Institution (DH-Spezialisten, Datenwissenschaftler, Datenschutzbeauftragte, IT-Mitarbeiter) bzw. auch darüber hinaus (KompetenzWerkD?).
 
-#### Ein DMP besteht in der Regel aus folgenden Punkten:
+#### Ein DMP besteht in der Regel aus folgenden Punkten
 * Administrative Angaben (Projektname, Fördernummer,
 Datenurheber, Mitwirkende, Kontakt, Förderprogramm usw.)
 * Beschreibung der Daten (Art, Format und Erstellung)
@@ -21,31 +21,31 @@ Datenurheber, Mitwirkende, Kontakt, Förderprogramm usw.)
 * Verantwortlichkeiten (Wer ist für den DMP verantwortlich, wer für Einzelaspekte des FDM?)
 * Kostenfragen (Welche Ressourcen – personell und materiell – sind für die Maßnahmen nötig?)
 
-## Links zu den Themen FDM und DMP:
+## Links zu den Themen FDM und DMP
 
-#### Übersichten:
+#### Übersichten
 
 * [Generelle Informationen zum Thema FDM des Digital Curation Centres](http://www.dcc.ac.uk/resources/data-management-plans)
 * [Empfehlungen zum Forschungsdatenmanagement der Leibniz Universität Hannover](https://www.fdm.uni-hannover.de/de/kurz-erklaert/empfehlungen/) sowie [dazugehörige Materialien](https://www.fdm.uni-hannover.de/de/materialien/)
 * [Allgemeine Übersicht FDM der HU Berlin](https://www.cms.hu-berlin.de/de/dl/dataman)
 
-#### Leitfäden und Anleitungen:
+#### Leitfäden und Anleitungen
 
 * [Leitfaden zur DMP-Erstellung der Leibniz Universität Hannover](https://www.fdm.uni-hannover.de/fileadmin/fdm/Dokumente/Leitfaden-DMP_LUH_v2.2.pdf)
 * [Anleitung zur Erstellung eines Datenmanagementplans der HU Berlin inklusive Musterplänen für DFG, BMBF und H2020](https://www.cms.hu-berlin.de/de/dl/dataman/arbeiten/dmp_erstellen)
 * [Checkliste des Digital Curation Centre](http://www.dcc.ac.uk/resources/data-management-plans/checklist)
 
-#### Online-Tools zur Erstellung eines DMP:
+#### Online-Tools zur Erstellung eines DMP
 
 * [DMP-Online des Digital Curation Centre](https://dmponline.dcc.ac.uk/)
 * [Online-Fragebogen von CLARIN-D zur Erstellung eines DMP](https://www.clarin-d.net/de/aufbereiten/datenmanagementplan-entwickeln)
 
-#### Vorgaben der Förderinstitutionen:
+#### Vorgaben der Förderinstitutionen
 
 * [DFG – Leitlinien zum Umgang mit Forschungsdaten](https://www.dfg.de/foerderung/antrag_gutachter_gremien/antragstellende/nachnutzung_forschungsdaten/index.html)
 * [Europäische Kommission – Programme Guidelines on FAIR Data Management in Horizon 2020](http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf]
 
-#### Forschungsdatenrepositorien:
+#### Forschungsdatenrepositorien
 
 Um Forschungsdaten entsprechend der FAIR-Prinzipien auffindbar, zugänglich und langfristig aufzubewahren, ist die Bereitstellung über ein nachhaltig betriebenes Forschungsdatenrepositorium anzuraten.
 Mittelfristig werden hier vermutlich die NFDI-Initiativen eine wichtige Rolle spielen. Momentan können sich unter anderem folgende Anlaufstellen als hilfreich erweisen:
@@ -53,14 +53,14 @@ Mittelfristig werden hier vermutlich die NFDI-Initiativen eine wichtige Rolle sp
 * [Repositoriensuche in der Registry of Research Data Repositories zum Aufspüren fachspezifischer Repositorien](https://www.re3data.org/)
 * [Zenodo – Das offene fächerübergreifende Forschungsdatenrepositorium des CERN](https://zenodo.org/)
 
-#### Normdaten, Onotologien und Vokabulare:
+#### Normdaten, Onotologien und Vokabulare
 
 Die Verbindung der eigenen Daten mit in der jeweiligen Fachcommunity verbreiteten Normdaten
 erhöht die Wiederverwendbarkeit und Interoperabilität von Datensätzen ungemein.
 
 Ene Unterstützung beim beim Finden existierender Ressourcen bietet das [Basel Register of Thesauri, Ontologies & Classifications](http://www.bartoc.org/)
 
-#### Metadaten:
+#### Metadaten
 
 Zur Dokumentation der eigenen Forschungsdaten ist die Erstellung begleitender Metadaten unverzichtbar. Es existiert eine Vielzahl verschiedener Standards und Formate. Übersichten zu DH-spezifischen Technologien bieten die folgenden Links.
 
