@@ -69,7 +69,7 @@ Zur Dokumentation der eigenen Forschungsdaten ist die Erstellung begleitender Me
 
 ## TODO
 
-Was ich gerne noch drin hätte (vor der Verteilung oder später nachgereicht, je nachdem:
+Was ich gerne noch drin hätte (vor der Verteilung oder später nachgereicht, je nach Aufwand)
 
 * Ein Showcase, Use Case, Best Practice oder ähnliches; Gerne mit einem Projekt eines unserer Institute zusammen durchgeführt
 * Einen Vorschlag, wie am einfachsten ohne großen Aufwand die Metadaten von Datensätzen / eines Projekts erstellt und abgelegt werden können (Dublin Core? CSV? Verwendung einfacher Ontologie zu fachlichen Verortung? - Hauptsache für uns gut maschinell verarbeitbar/umwandelbar)
