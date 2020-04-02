@@ -66,6 +66,12 @@ Zur Dokumentation der eigenen Forschungsdaten ist die Erstellung begleitender Me
 
 * [Übersicht zu disziplinenspezifischen Metadatenstandards des Digital Curation Centre](http://www.dcc.ac.uk/resources/metadata-standards)
 * [Übersicht zum Thema Metadaten in den Digital Humanities](https://fordham.libguides.com/DigitalHumanities/Metadata)
+* [RDA | Metadata Directory - Arts and Humanities](https://rd-alliance.github.io/metadata-directory/subjects/arts-and-humanities.html)
+
+##### Praktische Tipps 
+
+* [Leitfaden der Standford Libraries zum Erfassen von Metadaten zu Forschungsdaten](https://library.stanford.edu/research/data-management-services/data-best-practices/creating-metadata/basic-approach-metadata)
+* [UK Data Service - Documentation](https://www.ukdataservice.ac.uk/manage-data/document.aspx)
 
 ## TODO
 
