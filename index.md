@@ -76,3 +76,9 @@ Was ich gerne noch drin hätte (vor der Verteilung oder später nachgereicht, je
 * beliebige Erweiterungen, Kürzungen, Umstrukturierungen :-)
 
  
+* [Hinweise der Universität Leipzig](https://www.uni-leipzig.de/forschung/forschungsservice/forschungsdatenmanagement/)
+* [Hinweise der TU Dresden](https://tu-dresden.de/forschung-transfer/services-fuer-forschende/kontaktstelle-forschungsdaten/uebersichtsseite#intro)
+* [RDMO (Research Data Management Organiser) - ein Tool für FDM](https://rdmorganiser.github.io/)
+* [SaxFDM - eine Initiative sächsischer Hochschulen und Forschungseinrichtungen zur Vernetzung, Kooperation und Koordination im Bereich FDM](https://saxfdm.de/)
+* [Gris - das FDM-System der Leibniz-Gemeinschaft](http://www.gris-leibniz.org/)
+* [Rat für Informationsinfrastrukturen - ein Beratungsgremium "in strategischen Zukunftsfragen der digitalen Wissenschaft"](http://www.rfii.de)
