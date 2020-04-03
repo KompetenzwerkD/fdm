@@ -7,12 +7,12 @@ Langfristig wäre auch eine Softwarelösung zum Erstellen und Verwalten vorstell
 einfache Textdatei, plain text, utf8, Key-Value-Paare
 
 ### Beispiel:
-Title="Candle in the Wind"
-Subject="Diana, Princess of Wales"
-Date="1997"
-Creator="John, Elton"
-Type="sound"
-Description="Tribute to a dead princess"
+Title="Candle in the Wind"<br>
+Subject="Diana, Princess of Wales"<br>
+Date="1997"<br>
+Creator="John, Elton"<br>
+Type="sound"<br>
+Description="Tribute to a dead princess"<br>
 Relation="IsVersionOf Elton John's 1976 song Candle in the Wind"
 
 ### Standard/Vokabular:
