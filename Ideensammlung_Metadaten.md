@@ -1,7 +1,7 @@
 ### Idee:
 Zunächst jene abholen, die sich bisher gar nicht um Metadaten für ihre Forschungsdaten kümmern
 Am besten einen einfachen, gangbaren Weg vorschlagen, Forschungsdaten mit möglichst informativen Metadaten zu versehen durch Beilegen einer Datei.
-Langfristig wäre auch eine Softwarelösung zum Erstellen und Verwalten vorstellbar, aber zunächst.
+Langfristig wäre auch eine Softwarelösung zum Erstellen und Verwalten vorstellbar, aber zunächst: Keep it simple!
 
 ### Dateiformat:
 einfache Textdatei, plain text, utf8, Key-Value-Paare
