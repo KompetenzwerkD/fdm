@@ -29,11 +29,10 @@ https://www.dublincore.org/specifications/dublin-core/usageguide/2001-04-12/gene
 Data Documentation Initiative
 http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative
 hier gibt es ein verbreitetes Profil: CESSDA MLI - aktuell führen die Links dazu aber ins Leere
+
 kontrollierte Vokabulare: https://ddialliance.org/controlled-vocabularies
 
 #### CMDI:
-Komponentenbasierte Metadaten, der CLARIN-Ansatz. Man könnte mittels vorhandener/ eigener Komponenten ein passendes Profil erstellen
-https://www.clarin.eu/content/component-metadata
+Komponentenbasierte Metadaten, der CLARIN-Ansatz. Man könnte mittels vorhandener/ eigener Komponenten ein passendes Profil erstellen https://www.clarin.eu/content/component-metadata
 
-Neben Registries für Komponenten (https://catalog.clarin.eu/ds/ComponentRegistry/) und Konzepte (https://concepts.clarin.eu/ccr/browser/) gibt es auch einen Online-Editor:
-http://clarino.uib.no/comedi/page
+Neben Registries für Komponenten (https://catalog.clarin.eu/ds/ComponentRegistry/) und Konzepte (https://concepts.clarin.eu/ccr/browser/) gibt es auch einen Online-Editor: http://clarino.uib.no/comedi/page
