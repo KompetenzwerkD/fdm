@@ -30,6 +30,8 @@ Data Documentation Initiative
 http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative
 hier gibt es ein verbreitetes Profil: CESSDA MLI - aktuell führen die Links dazu aber ins Leere
 
+Editor: https://code.google.com/archive/p/ddieditor/
+
 kontrollierte Vokabulare: https://ddialliance.org/controlled-vocabularies
 
 #### CMDI:
