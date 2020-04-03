@@ -16,12 +16,20 @@ Description="Tribute to a dead princess"
 Relation="IsVersionOf Elton John's 1976 song Candle in the Wind"
 
 ### Standard/Vokabular:
-Es gibt verschiedene Kandidaten, aus denen wir die Vokabulare für Keys (und evtl. Values) beziehen könnten und in deren Formate wir dann besonders einfach konvertieren könnten
+Es gibt verschiedene Kandidaten, aus denen wir die Vokabulare für Keys (und evtl. Values) beziehen könnten und in deren Formate wir dann besonders einfach konvertieren könnten. Wobei Mappings zwischen den verschiedenen Standards auch nachträglich i.d.R. unproblematisch sein sollten.
 
 
 #### Dublin Core:
+weit verbreitet, deckt trotz übersichtlichem Vokabular vermutlich schon das Wichtigste ab
+https://www.dublincore.org/specifications/dublin-core/dcmi-terms/
+https://www.dublincore.org/specifications/dublin-core/usageguide/2001-04-12/generic/
+
 
 #### DDI:
+Data Documentation Initiative
+http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative
+hier gibt es ein verbreitetes Profil: CESSDA MLI - aktuell führen die Links dazu aber ins Leere
+kontrollierte Vokabulare: https://ddialliance.org/controlled-vocabularies
 
 #### CMDI:
 Komponentenbasierte Metadaten, der CLARIN-Ansatz. Man könnte mittels vorhandener/ eigener Komponenten ein passendes Profil erstellen
