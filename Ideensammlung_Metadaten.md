@@ -38,3 +38,11 @@ kontrollierte Vokabulare: https://ddialliance.org/controlled-vocabularies
 Komponentenbasierte Metadaten, der CLARIN-Ansatz. Man könnte mittels vorhandener/ eigener Komponenten ein passendes Profil erstellen https://www.clarin.eu/content/component-metadata
 
 Neben Registries für Komponenten (https://catalog.clarin.eu/ds/ComponentRegistry/) und Konzepte (https://concepts.clarin.eu/ccr/browser/) gibt es auch einen Online-Editor: http://clarino.uib.no/comedi/page
+
+### Data Provenance
+Es wäre wünschenswert wenn anhand der Metadaten Ursprung und Bearbeitungsschritte der Forschungsdaten nachvollzogen werden kann.
+
+Das W3C hat ein detailierte Ontologie dazu Erstellt: [PROV-O](https://www.w3.org/TR/prov-o/)
+
+Ein wichtiger Punkt ist auch die Nennung der 'Datenautorinnen' (Zitierfähigkeit)
+
