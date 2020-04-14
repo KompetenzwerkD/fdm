@@ -37,8 +37,9 @@ Datenurheber, Mitwirkende, Kontakt, Förderprogramm usw.)
 
 #### Online-Tools zur Erstellung eines DMP
 
-* [DMP-Online des Digital Curation Centre](https://dmponline.dcc.ac.uk/)
+* [DMP-Online des Digital Curation Center](https://dmponline.dcc.ac.uk/)
 * [Online-Fragebogen von CLARIN-D zur Erstellung eines DMP](https://www.clarin-d.net/de/aufbereiten/datenmanagementplan-entwickeln)
+* [DMPTool des Digital Curation Center](https://dmptool.org/)
 
 #### Vorgaben der Förderinstitutionen
 
