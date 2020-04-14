@@ -81,7 +81,7 @@ Was ich gerne noch drin hätte (vor der Verteilung oder später nachgereicht, je
 * Einen Vorschlag, wie am einfachsten ohne großen Aufwand die Metadaten von Datensätzen / eines Projekts erstellt und abgelegt werden können (Dublin Core? CSV? Verwendung einfacher Ontologie zu fachlichen Verortung? - Hauptsache für uns gut maschinell verarbeitbar/umwandelbar)
 * beliebige Erweiterungen, Kürzungen, Umstrukturierungen :-)
 
- 
+Schöne Links! TODO.eindortieren / erläutern, sobald Zeit ist
 * [Hinweise der Universität Leipzig](https://www.uni-leipzig.de/forschung/forschungsservice/forschungsdatenmanagement/)
 * [Hinweise der TU Dresden](https://tu-dresden.de/forschung-transfer/services-fuer-forschende/kontaktstelle-forschungsdaten/uebersichtsseite#intro)
 * [RDMO (Research Data Management Organiser) - ein Tool für FDM](https://rdmorganiser.github.io/)
