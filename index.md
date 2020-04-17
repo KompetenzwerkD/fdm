@@ -37,7 +37,7 @@ Diese Leitfäden beinhalten hilfreiche Checklisten, wenn Sie Ihren Datenmanageme
 
 * [Leitfaden zur DMP-Erstellung der Leibniz Universität Hannover](https://www.fdm.uni-hannover.de/fileadmin/fdm/Dokumente/Leitfaden-DMP_LUH_v2.2.pdf)
 * [Anleitung zur Erstellung eines Datenmanagementplans der HU Berlin inklusive Musterplänen für DFG, BMBF und H2020](https://www.cms.hu-berlin.de/de/dl/dataman/arbeiten/dmp_erstellen)
-* [Leitfaden und Checkliste von FDMentor](https://depositonce.tu-berlin.de//handle/11303/8372); siehe auch [das dazugehörige Wiki](https://www.forschungsdaten.org/index.php/FDMentor)
+* [Materialkatalog zum Forschungsdatenmanagement von FDMentor](https://zenodo.org/record/1209284); siehe auch [das dazugehörige Wiki](https://www.forschungsdaten.org/index.php/FDMentor)
 * [Checkliste des Digital Curation Centre](http://www.dcc.ac.uk/resources/data-management-plans/checklist)
 
 #### Online-Tools zur Erstellung eines DMP
@@ -88,6 +88,9 @@ Unter folgenden Links können Sie die Thematik weiter vertiefen und sich lokal i
 * [Hinweise der TU Dresden](https://tu-dresden.de/forschung-transfer/services-fuer-forschende/kontaktstelle-forschungsdaten/uebersichtsseite#intro)
 * [SaxFDM - eine Initiative sächsischer Hochschulen und Forschungseinrichtungen zur Vernetzung, Kooperation und Koordination im Bereich FDM](https://saxfdm.de/)
 
-## Coming soon - Fallbeispiele
+#### Erstellung institutioneller Forschungsdaten-Policies
+* [Leitfaden und Checkliste von FDMentor](https://depositonce.tu-berlin.de//handle/11303/8372)
+
+### Coming soon - Fallbeispiele
 
 In der Zukunft werden wir mit konkreten Projekten zusammenarbeiten, um Use Cases zu erstellen, wie man Forschungsdatenmanagement und einen Datenmanagementplan in Forschungsprojekten umsetzen kann. Die Ergebnisse, aber auch die dort gesammlten Erfahrungen, werden wir an dieser Stelle bereitstellen. Teil dieser Bestrebungen wird auch ein möglichst niederschwelliger Ansatz sein, Metadaten zum Projekt und den dort entstehenden Forschungsdaten zu erheben und abzulegen. Dies wird auf Basis verbreiteter Standards wie Dublin Core und unter Verwendung einer einfacher Ontologien zur fachlichen Verortung geschehen. Dadurch kann unter anderem maschinelle Verarbeitbarkeit und Nachnutzbarkeit gewährleistet werden.
