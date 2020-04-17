@@ -37,7 +37,7 @@ Diese Leitfäden beinhalten hilfreiche Checklisten, wenn Sie Ihren Datenmanageme
 
 * [Leitfaden zur DMP-Erstellung der Leibniz Universität Hannover](https://www.fdm.uni-hannover.de/fileadmin/fdm/Dokumente/Leitfaden-DMP_LUH_v2.2.pdf)
 * [Anleitung zur Erstellung eines Datenmanagementplans der HU Berlin inklusive Musterplänen für DFG, BMBF und H2020](https://www.cms.hu-berlin.de/de/dl/dataman/arbeiten/dmp_erstellen)
-* [Leitfaden zum  Forschungsdaten-Management des WissGrid-Projekts](http://www.vwh-verlag.de/vwh/wp-content/uploads/2013/01/wissgrid_titelei.pdf)
+* [Leitfaden zum  Forschungsdaten-Management des WissGrid-Projekts](https://univerlag.uni-goettingen.de/handle/3/isbn-978-3-86488-032-2)
 * [Materialkatalog zum Forschungsdatenmanagement von FDMentor](https://zenodo.org/record/1209284); siehe auch [das dazugehörige Wiki](https://www.forschungsdaten.org/index.php/FDMentor)
 * [Checkliste des Digital Curation Centre](http://www.dcc.ac.uk/resources/data-management-plans/checklist)
 
