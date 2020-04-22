@@ -12,8 +12,8 @@ Antragsphase:
   * Datenwissenschaftler/innen
   * Datenschutzbeauftragten
   * IT-Mitarbeiter/innen
-* Datenmanagementplan erstellen: Gemeinsam gilt es, als Grundlage der zukünftigen Arbeit mit Forschugnsdaten, möglichst bereits
-Hier sollten wir eine Vorlage oder ein OnlineTool (DMPonline?) empfehlen
+  * Ihrem KompetenzwerkD
+* Datenmanagementplan erstellen: Gemeinsam gilt es, als Grundlage der zukünftigen Arbeit mit Forschugnsdaten, möglichst frühzeitig spätere Abläufe zu planen. Erleichtert die zukünftige Arbeit, sichert die nachhaltige Aufbewahrung, ermöglicht personelle und finanzielle Abschätzung möglicher aufwände vor Antragsstellung
 
 Projektphase - Zu Beginn:
 * Wichtigste Metadaten zum Projekt zusammentragen (Wir stellen Vorlage bereit)
