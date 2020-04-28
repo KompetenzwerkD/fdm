@@ -89,11 +89,11 @@ Geben Sie Auskunft über Art und Format der Metadaten und Dokumentation: Eine au
 * Beziehen Sie evtl. vorhandene Backup-Strategien der Rechner/Server Ihres Instituts ein.
 * 
 #### Archivierung: 
-* Welche Daten werden im Anschluss wo (welches Repositorium oder Archiv) und wie lange verfügbar sein? Definieren Sie, welche Daten extern, öffentlich und langfristig gespeichert werden, idealerweise mindestens zehn Jahre.
+* Welche Daten werden im Anschluss wo (welches Repositorium oder Archiv) und wie lange verfügbar sein? Definieren Sie, welche Daten extern, öffentlich und langfristig gespeichert werden, idealerweise mindestens zehn Jahre (gefordert beispielsweise von der DFG) oder gar länger, falls durch die Art der Daten eine Archivwürdigkeit gegeben ist bzw. sie eine Langzeitarchivierung nahelegen.
 * Selektieren Sie: Was müssen Sie aufheben, um Ihre Forschung nachvollziehbar oder nachprüfbar zu machen? (Metadaten, Anleitungen) 
 * Bei welchen Daten besteht ein “Recht auf Vergessen”?
 * Legen Sie dar, inwieweit die Wahl der Datenformate eine langfristige Nutzung ermöglicht.
-* In der Regel bietet sich die Zusammenarbeit mit einem externen Forschungsdatenrepositorium oder einem Archiv an, insofern Ihr Institut keine eigenen Lösungen anbietet. Nutzen Sie gegebenenfalls die Repositoriensuche in der [Registry of Research Data Repositories](https://www.re3data.org/) zum Aufspüren fachspezifischer Repositorien  und nehmen Sie frühzeitig Kontakt auf
+* In der Regel bietet sich die Zusammenarbeit mit einem zertifizierten externen Forschungsdatenrepositorium, Datenzentrum oder Archiv an, insofern Ihr Institut keine eigenen Lösungen anbietet. Nutzen Sie gegebenenfalls die Repositoriensuche in der [Registry of Research Data Repositories](https://www.re3data.org/) zum Aufspüren fachspezifischer Repositorien  und nehmen Sie frühzeitig Kontakt auf
 * Die Übergabe der Forschungsdaten (häufig zu Projektende/Dienstende) sollte im DMP von Beginn an genau festgelegt werden, um eine gute Lösung für alle Beteiligten zu finden.
 * Sie müssen keine Pläne für Daten aus Archiven, mit denen Sie arbeiten, erstellen, sondern nur für Ihre im Projekt erstellten Forschungsdaten.
 Eine niederschwellige Variante für Langzeitdatenarchivierung ist die Publikation der Daten im Repositorium “Zenodo” des CERN in der Schweiz. Unsere Empfehlung: Speichern Sie Ihre Daten in möglichst “einfachen” Formaten - beispielsweise Datenbank-Daten in CSV-Dateien -, erstellen Sie strukturierte Metadaten dazu und schreiben Sie ein Dokument (“readme”-Datei) mit weiteren Informationen, die für eine korrekte Interpretation und Nachnutzung wichtig sind. Sie können alles in einem ZIP-Archiv sozusagen “pur” in Zenodo ablegen (dies erfüllt auch Open Access-Anforderungen).
