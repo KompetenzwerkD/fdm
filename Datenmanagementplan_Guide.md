@@ -38,7 +38,7 @@ Möchten Sie ein DMP-Dokument selbst erstellen z. B. in Word oder kollaborativ i
 
 * Mit welcher Art Forschungsdaten arbeiten Sie im Projekt? Dies betrifft sowohl existierende Daten, die Sie verwenden, vielleicht als Grundlage Ihrer Forschungen, aber auch jene Forschungsdaten, die erst im Rahmen des Projekts entstehen.
 * Beschreiben Sie, in welchem Format Sie planen, Ihre Daten abzulegen. Behalten Sie bei der Wahl frühzeitig die Nachnutzung im Blick und verwenden Sie möglichst etablierte Standards. Dies gilt auch für die Nutzung von Normdaten oder fachspezifischen Vokabularen (siehe Dokumentation).
-* Die Erstellung Ihrer Daten sollte ebenfalls dargelegt werden. Welche Verfahren setzen Sie ein? Was sind die Quellen? Aus diesen Fragen können sich wichtige Aspekte rund um Copyright, Persönlichkeitsrechte oder ähnliches ergeben.
+* Der Vorgang der Erstellung Ihrer Daten sollte ebenfalls dargelegt werden - dies dient auch der Nachvollziehbarkeit Ihrer Maßnahmen zur Qualitätsssicherung in der Forschung. Welche Verfahren setzen Sie ein? Was sind die Quellen? Aus diesen Fragen können sich auch wichtige Aspekte rund um Copyright, Persönlichkeitsrechte oder ähnliches ergeben.
 
 ### Dokumentation und Metadaten
 
