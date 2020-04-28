@@ -100,7 +100,7 @@ Für größere Datenmengen (z. B. umfangreiches Bild- und Videomaterial) werden 
 
 ### Datenverfügbarkeit (Auffindbarkeit, Zugriffsbeschränkungen)
 * Wie wird sichergestellt, dass wichtige Projektdaten nicht nur nachhaltig aufbewahrt werden sondern auch auffindbar sind? Dies ist eine wichtige Voraussetzung, um eine möglichst breite Nachnutzung zu ermöglichen.
-* Häufig bieten Forschungsdatenrepositorien / Archive nicht nur eigene Suchmöglichkeiten in den (begrenzten) Datenbeständen sondern integrieren sich in größere Verbünde, welche eine gemeinsame zentrale (oft fachspezifische) Suchfunktionalität anbieten (beispielsweise das [CLARIN Virtual Language Observatory](https://vlo.clarin.eu/). Geben Sie dies gegebenenfalls an.
+* Häufig bieten Forschungsdatenrepositorien / Archive nicht nur eigene Suchmöglichkeiten in den (begrenzten) Datenbeständen sondern integrieren sich in größere Verbünde, welche eine gemeinsame zentrale (oft fachspezifische) Suchfunktionalität anbieten (beispielsweise das [CLARIN Virtual Language Observatory](https://vlo.clarin.eu/)). Geben Sie dies gegebenenfalls an.
 * Werden die Daten frei verfügbar sein oder sind Zugriffsbeschränkungen nötig (Bezug zu Persönlichkeitsrechten / Copyright gegebenenfalls sinnvoll)? Wie werden diese umgesetzt?
 
 ### Verantwortlichkeiten
