@@ -14,7 +14,7 @@ Generell gilt: Nehmen Sie sich die nötige Zeit und beziehen Sie bei der Ausarbe
 * Administrative Angaben (Projektname + kurze Beschreibung, Fördernummer,
 Datenurheber, Mitwirkende, Kontakt, Förderprogramm usw.)
 * Beschreibung der Daten (Art, Format und Erstellung)
-* Angaben zu Metadaten und Dokumentation (Art und Format der Metadaten und Dokumentation; Verwendung von Normdaten oder Vokabularen)
+* Dokumentation und Metadaten (Art und Format der Metadaten und Dokumentation; Verwendung von Normdaten oder Vokabularen)
 * Ethische und rechtliche Aspekte (Datenschutz, Copyright)
 * Speicherung, Archivierung und Sicherung der Daten (Welche Daten werden wo und wie lange verfügbar sein? Reichen vorhandene Ressourcen?)
 * Datenverfügbarkeit (Auffindbarkeit, Zugriffsbeschränkungen)
