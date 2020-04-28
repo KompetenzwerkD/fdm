@@ -46,7 +46,7 @@ Geben Sie Auskunft über Art und Format der Metadaten und Dokumentation: Eine au
 
 #### Metadaten
 * Sie sind ein Teil der nötigen Dokumentation und helfen (unter anderem) die Auffindbarkeit Ihrer Daten zu erhöhen, da aus ihnen Informationen automatisch extrahiert werden können.
-* Um dies zu ermöglichen, sollten etablierte Metadatenstandards genutzt werden.
+* Um dies zu ermöglichen, sollten etablierte Metadatenstandards genutzt und verbreitete Best Practices angewendet werden.
 * [Eine Möglichkeit bieten zwei vom KompetenzwerkD erstellte Schemata - eines für die Projektmetadaten, eines für die Metadaten von Forschungsdaten.](https://kompetenzwerkd.github.io/fdm-schemas/) Sie enthalten grundlegende Angaben unter Verwendung etablierter Vokabulare wie [“Dublin Core”](https://dublincore.org/).
 * Anmerkung: Diese Schemata sind sehr allgemein gehalten und können vermutlich nicht alle Anforderungen abdecken, die bezüglich bestimmter Datensätze auftreten. In diesem Fall sollten im Projekt Ressourcen für die Erstellung eigener Schemata eingeplant werden.
 * Hilfreiche Ressourcen können sein:
