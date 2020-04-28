@@ -99,9 +99,10 @@ Geben Sie Auskunft über Art und Format der Metadaten und Dokumentation: Eine au
 Eine niederschwellige Variante für Langzeitdatenarchivierung ist die Publikation der Daten im Repositorium “Zenodo” des CERN in der Schweiz. Unsere Empfehlung: Speichern Sie Ihre Daten in möglichst “einfachen” Formaten - beispielsweise Datenbank-Daten in CSV-Dateien -, erstellen Sie strukturierte Metadaten dazu und schreiben Sie ein Dokument (“readme”-Datei) mit weiteren Informationen, die für eine korrekte Interpretation und Nachnutzung wichtig sind. Sie können alles in einem ZIP-Archiv sozusagen “pur” in Zenodo ablegen (dies erfüllt auch Open Access-Anforderungen).
 Für größere Datenmengen (z. B. umfangreiches Bild- und Videomaterial) werden andere Lösungen zur Langzeitdatenarchivierung benötigt. Hier könnte in Sachsen die SLUB mögliche Lösungen bieten.
 
-### Datenverfügbarkeit (Auffindbarkeit, Zugriffsbeschränkungen)
-* Wie wird sichergestellt, dass wichtige Projektdaten nicht nur nachhaltig aufbewahrt werden sondern auch auffindbar sind? Dies ist eine wichtige Voraussetzung, um eine möglichst breite Nachnutzung zu ermöglichen.
+### Datenverfügbarkeit (Auffindbarkeit, Zitierbarkeit, Zugriffsbeschränkungen)
+* Wie wird sichergestellt, dass wichtige Projektdaten nicht nur nachhaltig aufbewahrt werden sondern auch auffindbar und zitierbar sind? Dies ist eine wichtige Voraussetzung, um eine möglichst breite Nachnutzung zu ermöglichen.
 * Häufig bieten Forschungsdatenrepositorien / Archive nicht nur eigene Suchmöglichkeiten in den (begrenzten) Datenbeständen sondern integrieren sich in größere Verbünde, welche eine gemeinsame zentrale (oft fachspezifische) Suchfunktionalität anbieten (beispielsweise das [CLARIN Virtual Language Observatory](https://vlo.clarin.eu/)). Geben Sie dies gegebenenfalls an.
+* Stellen Sie sicher, das die Daten mit einem Persistenten Identifikator (PID) versehen werden, um dauerhafte Zitierbarkeit zu ermöglichen. In der Regel ist die Vergabe einer PID Teil der Archivierung bzw. der Übergabe an das Repositorium. 
 * Werden die Daten frei verfügbar sein oder sind Zugriffsbeschränkungen nötig (Bezug zu Persönlichkeitsrechten / Copyright gegebenenfalls sinnvoll)? Wie werden diese umgesetzt?
 
 ### Verantwortlichkeiten
