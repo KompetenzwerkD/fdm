@@ -68,7 +68,7 @@ Um Forschungsdaten entsprechend der FAIR-Prinzipien auffindbar, zugänglich und 
 
 Die Verbindung der eigenen Daten mit in der jeweiligen Fachcommunity verbreiteten Normdaten erhöht die Wiederverwendbarkeit und Interoperabilität von Datensätzen ungemein.
 
-Ene Unterstützung beim beim Finden existierender Ressourcen bietet das [Basel Register of Thesauri, Ontologies & Classifications](http://www.bartoc.org/)
+Eine Unterstützung beim Finden existierender Ressourcen bietet das [Basel Register of Thesauri, Ontologies & Classifications](http://www.bartoc.org/)
 
 #### Metadaten erstellen
 
