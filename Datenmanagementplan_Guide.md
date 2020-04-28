@@ -3,7 +3,7 @@
 
 Ein Datenmanagementplan ist heutzutage oft schon bei der Antragstellung oder spätestens bei Projektbeginn gefordert. Schließlich erleichtert die frühe Auseinandersetzung mit dem Thema Forschungsdatenmanagement später viele Abläufe im Projekt. Im Plan legen Sie fest, wie Sie Daten erheben, speichern, archivieren und übergeben. Dies ist gerade bei zeitlich begrenzten Projekten wichtig, wenn das Projekt endet und an einer Institution nachhaltig gesichert oder weiterbetrieben werden soll, aber auch wenn Mitarbeiter_innen die Dienststelle wechseln oder neue hinzukommen Es empfiehlt sich, dafür frühzeitig die Weichen zu stellen und den DMP ggf. im Projektverlauf anzupassen.
 
-Manche Institutionen wie die DFG oder die EU haben recht klare Vorgaben, und es existieren zahlreiche Vorlagen auf Webseiten und Publikationen.
+Manche Institutionen wie die DFG oder die EU haben recht klare Vorgaben, und es existieren zahlreiche Vorlagen auf Webseiten und in Publikationen.
 
 [Wir haben eine Webseite mit Empfehlungen zum Forschungsdatenmanagement erstellt.]( https://kompetenzwerkd.github.io/fdm/)
 
