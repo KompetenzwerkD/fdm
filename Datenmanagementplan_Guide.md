@@ -16,11 +16,11 @@ Der folgende Leitfaden ist in praktischer Zusammenarbeit mit Kolleg_innen aus ve
 Hat mein Fördergeber gesonderte Vorgaben, vielleicht sogar einen Muster-DMP? Beispiele wären:
 * [Leitlinien zum Umgang mit Forschungsdaten der DFG](https://www.dfg.de/foerderung/antrag_gutachter_gremien/antragstellende/nachnutzung_forschungsdaten/index.html)
 * [Programme Guidelines on FAIR Data Management in Horizon 2020 der Europäischen Kommission](http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf)
-* Hat meine Institution eine Forschungsdatenrichtlinie? Die Akademienunion beispielsweise bietet dies momentan nicht, aber das wird sich ändern.Habe ich Projektpartner an anderen Institutionen (DFG, EU, Leibniz etc.), wo Vorgaben existieren?Schreibe ich meinen DMP auf Deutsch, auf Englisch (was üblich ist) oder in einer anderen Sprache?
+* Hat meine Institution eine Forschungsdatenrichtlinie? Die Akademienunion beispielsweise bietet dies momentan nicht, aber das wird sich ändern. Habe ich Projektpartner an anderen Institutionen (DFG, EU, Leibniz etc.), wo Vorgaben existieren? Schreibe ich meinen DMP auf Deutsch (weil dies der Fördergeber so abfragt), auf Englisch (was üblich ist) oder in einer anderen Sprache?
 
 ## Schritt 2: Gliederung / Tool auswählen
 
-Möchten Sie ein DMP-Dokument selbst erstellen z. B. in Word oder kollaborativ in einer Cloudlösung? Hilfreich ist in diesem Fall die Verwendung einer Gliederungsvorlage, um alles Nötige im Blick zu behalten. Übernehmen Sie gerne die von uns vorgeschlagenen Punkte und gehen Sie diese in Ruhe durch oder wählen Sie eine alternative Gliederung z.B.:
+Möchten Sie ein DMP-Dokument selbst erstellen, z. B. in Word, oder kollaborativ in einer Cloudlösung? Hilfreich ist in diesem Fall die Verwendung einer Gliederungsvorlage, um alles Nötige im Blick zu behalten. Übernehmen Sie gerne die von uns vorgeschlagenen Punkte und gehen Sie diese in Ruhe durch oder wählen Sie eine alternative Gliederung, z. B.:
 * [Leitfaden der Leibniz Universität Hannover](https://www.fdm.uni-hannover.de/fileadmin/fdm/Dokumente/Leitfaden-DMP_LUH_v2.2.pdf)
 * [Checkliste der HU Berlin](https://www.cms.hu-berlin.de/de/dl/dataman/DMP-notes/view)
 * Oder möchten Sie sich einen DMP lieber auf einer Webseite zusammenbauen? Im zweiten Fall empfehlen wir das [DMP Tool](https://dmponline.dcc.ac.uk/). Dort können Sie sich Stück für Stück durch die Erstellung klicken und dann den fertigen DMP herunterladen. Auch späteres Editieren ist jederzeit möglich.
@@ -67,11 +67,11 @@ Geben Sie Auskunft über Art und Format der Metadaten und Dokumentation: Eine au
 
 ### Ethische und rechtliche Aspekte (Datenschutz, Copyright)
 
-* Welche Maßnahmen zum Datenschutz sind falls nötig im Projekt vorgesehen?
+* Welche Maßnahmen zum Datenschutz sind, falls nötig, im Projekt vorgesehen?
 * Welche Maßnahmen zum Schutz von Urheber- und Persönlichkeitsrechten sind im Projekt vorgesehen?
-* Definieren Sie, welche Daten intern gespeichert werden und welche Sie der Öffentlichkeit (Fachcommunity, interessierte Bürger*innen) zur Verfügung stellen. Dies ist insbesondere bei Daten wichtig, die Persönlichkeitsrechte und Copyrights involvieren (Interviews, Publikationen Dritter etc.).
+* Definieren Sie, welche Daten intern gespeichert werden und welche Sie der Öffentlichkeit (Fachcommunity, interessierte Bürger/innen) zur Verfügung stellen. Dies ist insbesondere bei Daten wichtig, die Persönlichkeitsrechte und Copyrights involvieren (Interviews, Publikationen Dritter etc.).
 * Klären Sie Rechte zur Nutzungs oder Veröffentlichung im Vorfeld mit eventuell existierenden Rechteinhabern und legen Sie verbindliche Unterlagen zur rechtlichen Klärung bei. Erläutern Sie noch offene Fragen. 
-* Rechte: In Abhängigkeit von verwendeten Ausgangsdaten bzw. Datenquellen involviert die relevante deutsche Rechtslage zahlreiche Gesetze. Halten Sie hier gegebenenfalls Rücksprache mit Ihrer Administration oder Ihrem Justiziariat. Natürlich ist auch ihr KompetenzwerkD bemüht, Hilfestellung zu geben oder Kompetenz zu vermitteln. Als Einstieg gibt es beispielsweise hier weitere Infomationen: [Forschungsdaten - Rechte und gute wissenschaftliche Praxis](http://www.bartoc.org/) (ab Folie 19)
+* Rechte: In Abhängigkeit von verwendeten Ausgangsdaten bzw. Datenquellen involviert die relevante deutsche Rechtslage zahlreiche Gesetze. Halten Sie hier gegebenenfalls Rücksprache mit Ihrer Administration oder Ihrem Justiziariat. Natürlich ist auch ihr KompetenzwerkD bemüht, Hilfestellung zu geben oder Kompetenz zu vermitteln. Als Einstieg gibt es beispielsweise hier weitere Infomationen: [Forschungsdaten - Rechte und gute wissenschaftliche Praxis](10.5281/zenodo.3763040) (ab Folie 19)
 * Die Frage der Lizenzen ist immer auch an die Frage der Rechte geknüpft. Wenn Sie keine Urheber- und ähnliche Rechte berühren, könnten Sie die Lizenz “CC0” verwenden, also Gemeinfreiheit.
 * Wichtiger Hinweis: Gemeinfreiheit und die Lizenzen bedeuten unter Umständen in verschiedenen Ländern etwas anderes. Wenn Sie also mit Projekten und Daten (Publikationen, Bilder etc.) aus anderen Ländern kooperieren, ist die Rechtlage verschieden. Wichtig hier: Setzen Sie eine Kooperationsvereinbarung mit den Justiziariaten aller beteiligten Institutionen auf und sprechen Sie diese Themen vorab an.
 * [Hier finden Sie eine Übersicht zu den Creative Comons Lizenzen](https://creativecommons.org/licenses/?lang=de)
@@ -85,7 +85,7 @@ Geben Sie Auskunft über Art und Format der Metadaten und Dokumentation: Eine au
 
 #### Sicherung:
 * Es sollte eine Strategie bezüglich Datenbackups entwickelt werden: Wie stellen Sie sicher, dass der Ausfall einzelner Rechner (zur Projektlaufzeit) nicht zum Datenverlust führt?
-* Beispiel: Nutzung Instituts-interner Server für wöchentliche Backups oder Nutzung einer internen Cloudlösung, z. B. SAW Cloud (Daten liegen dann parallel auf Arbeitsplatzrechnern und auf einem Server des Instituts)
+* Beispiel: Nutzung Instituts-interner Server für wöchentliche Backups oder Nutzung einer internen Cloudlösung, z. B. SAW Cloud (die Daten liegen dann parallel auf Arbeitsplatzrechnern und auf einem Server des Instituts)
 * Beziehen Sie evtl. vorhandene Backup-Strategien der Rechner/Server Ihres Instituts ein.
 
 #### Archivierung: 
@@ -95,15 +95,15 @@ Geben Sie Auskunft über Art und Format der Metadaten und Dokumentation: Eine au
 * Legen Sie dar, inwieweit die Wahl der Datenformate eine langfristige Nutzung ermöglicht.
 * In der Regel bietet sich die Zusammenarbeit mit einem zertifizierten externen Forschungsdatenrepositorium, Datenzentrum oder Archiv an, insofern Ihr Institut keine eigenen Lösungen anbietet und solange entsprechende Angebote der Nationalen Forschungsdateninfrastruktur fehlen. Nutzen Sie gegebenenfalls die Repositoriensuche in der [Registry of Research Data Repositories](https://www.re3data.org/) zum Aufspüren fachspezifischer Repositorien  und nehmen Sie frühzeitig Kontakt auf.
 * Die Übergabe der Forschungsdaten (häufig zu Projektende/Dienstende) sollte im DMP von Beginn an genau festgelegt werden, um eine gute Lösung für alle Beteiligten zu finden. Bei entsprechendem Bedarf (große Datenmengen, Langzeitarchivierungsvorhaben) sollte eine Kooperation mit einem Datenzentrum Teil des Projektantrags sein.
-* Sie müssen keine Pläne für Daten aus Archiven, mit denen Sie arbeiten, erstellen, sondern nur für Ihre im Projekt erstellten Forschungsdaten.
+* Sie müssen keine Pläne für Daten aus Archiven erstellen, mit denen Sie arbeiten, sondern nur für Ihre im Projekt erstellten Forschungsdaten.
 Eine niederschwellige Variante für Langzeitdatenarchivierung ist die Publikation der Daten im Repositorium [Zenodo](https://www.zenodo.org) des CERN in der Schweiz. Unsere Empfehlung: Speichern Sie Ihre Daten in möglichst “einfachen” Formaten - beispielsweise Datenbank-Daten in CSV-Dateien -, erstellen Sie strukturierte Metadaten dazu und schreiben Sie ein Dokument (“readme”-Datei) mit weiteren Informationen, die für eine korrekte Interpretation und Nachnutzung wichtig sind. Sie können alles in einem ZIP-Archiv sozusagen “pur” in Zenodo ablegen (dies erfüllt auch Open Access-Anforderungen).
-Für größere Datenmengen (z. B. umfangreiches Bild- und Videomaterial) werden andere Lösungen zur Langzeitdatenarchivierung benötigt. Hier könnte in Sachsen die SLUB mögliche Lösungen bieten.
+Für größere Datenmengen (z. B. umfangreiches Bild- und Videomaterial) werden andere Lösungen zur Langzeitdatenarchivierung benötigt. Hier könnte in Sachsen die [SLUB](https://www.slub-dresden.de/ueber-uns/slubarchiv/) mögliche Lösungen bieten.
 
 ### Datenverfügbarkeit (Auffindbarkeit, Zitierbarkeit, Zugriffsbeschränkungen)
 * Wie wird sichergestellt, dass wichtige Projektdaten nicht nur nachhaltig aufbewahrt werden sondern auch auffindbar und zitierbar sind? Dies ist eine wichtige Voraussetzung, um eine möglichst breite Nachnutzung zu ermöglichen.
 * Häufig bieten Forschungsdatenrepositorien / Archive nicht nur eigene Suchmöglichkeiten in den (begrenzten) Datenbeständen sondern integrieren sich in größere Verbünde, welche eine gemeinsame zentrale (oft fachspezifische) Suchfunktionalität anbieten (beispielsweise das [CLARIN Virtual Language Observatory](https://vlo.clarin.eu/)). Geben Sie dies gegebenenfalls an.
-* Stellen Sie sicher, das die Daten mit einem Persistenten Identifikator (PID) versehen werden, um dauerhafte Zitierbarkeit zu ermöglichen. In der Regel ist die Vergabe einer PID Teil der Archivierung bzw. der Übergabe an das Repositorium. 
-* Werden die Daten frei verfügbar sein oder sind Zugriffsbeschränkungen nötig (Bezug zu Persönlichkeitsrechten / Copyright gegebenenfalls sinnvoll)? Wie werden diese umgesetzt?
+* Stellen Sie sicher, das die Daten mit einem persistenten Identifikator (PID) versehen werden, um dauerhafte Zitierbarkeit zu ermöglichen. In der Regel ist die Vergabe einer PID Teil der Archivierung bzw. der Übergabe an das Repositorium. 
+* Werden die Daten frei verfügbar sein oder sind Zugriffsbeschränkungen nötig (Bezug zu Persönlichkeitsrechten/Copyright gegebenenfalls sinnvoll)? Wie werden diese umgesetzt?
 
 ### Verantwortlichkeiten
 * Klären Sie, wer für Erstellung und Pflege des DMP verantwortlich ist! Auch ist festzuhalten, wer (im Projekt, am Institut) die Einzelaspekte des FDM umsetzen soll.
