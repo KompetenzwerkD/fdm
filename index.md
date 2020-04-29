@@ -10,7 +10,7 @@ Da es beim FDM gilt, viele Aspekte im Auge zu behalten, ist die Erstellung eines
 
 Generell gilt: Nehmen Sie sich die nötige Zeit und beziehen Sie bei der Ausarbeitung ihrer Strategie alle nötigen Personen mit ein. Klären sie Sachverhalte mit entsprechenden Stellen an ihrer Institution (Digital-Humanities-Spezialist/innen, Datenwissenschaftler/innen, Datenschutzbeauftragte, IT-Mitarbeiter/innen) bzw. auch darüber hinaus (Kontaktieren Sie dazu gerne ihr KompetenzwerkD).
 
-#### Ein DMP besteht in der Rberlinegel aus folgenden Punkten
+#### Ein DMP besteht in der Regel aus folgenden Punkten
 * Administrative Angaben (Projektname + kurze Beschreibung, Fördernummer,
 Datenurheber, Mitwirkende, Kontakt, Förderprogramm usw.)
 * Beschreibung der Daten (Art, Format und Erstellung)
