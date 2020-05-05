@@ -36,7 +36,7 @@ Möchten Sie ein DMP-Dokument selbst erstellen, z. B. in Word, oder kollaborativ
 
 ### Beschreibung der Daten (Art, Umfang, Format und Erstellung)
 
-* Mit welcher Art Forschungsdaten arbeiten Sie im Projekt und welchen Umfang werden diese vermutlich haben? Dies betrifft sowohl existierende Daten, die Sie verwenden, vielleicht als Grundlage Ihrer Forschungen, aber auch jene Forschungsdaten, die erst im Rahmen des Projekts entstehen.
+* Mit welcher Art Forschungsdaten arbeiten Sie im Projekt und welchen Umfang werden diese vermutlich haben? Dies betrifft sowohl existierende Daten, die Sie verwenden, vielleicht als Grundlage Ihrer Forschungen, aber auch jene Forschungsdaten, die erst im Rahmen des Projekts entstehen. Wenn Sie eine Datenbank erstellen, können Sie sich an den dort eingerichteten Feldern für ihre Daten orientieren.
 * Beschreiben Sie, in welchem Format Sie planen, Ihre Daten abzulegen. Behalten Sie bei der Wahl frühzeitig die Nachnutzung im Blick und verwenden Sie möglichst etablierte Standards. Dies gilt auch für die Nutzung von Normdaten oder fachspezifischen Vokabularen (siehe Dokumentation).
 * Der Vorgang der Erstellung Ihrer Daten sollte ebenfalls dargelegt werden - dies dient auch der Nachvollziehbarkeit Ihrer Maßnahmen zur Qualitätsssicherung in der Forschung. Welche Verfahren setzen Sie ein? Was sind die Quellen? Aus diesen Fragen können sich auch wichtige Aspekte rund um Copyright, Persönlichkeitsrechte oder ähnliches ergeben.
 
@@ -53,6 +53,7 @@ Geben Sie Auskunft über Art und Format der Metadaten und Dokumentation: Eine au
     * [Übersicht zu disziplinenspezifischen Metadatenstandards des Digital Curation Centre](http://www.dcc.ac.uk/resources/metadata-standards) 
     * [Übersicht zum Thema Metadaten in den Digital Humanities](https://fordham.libguides.com/DigitalHumanities/Metadata)
     * [RDA: Metadata Directory - Arts and Humanities](https://rd-alliance.github.io/metadata-directory/subjects/arts-and-humanities.html)
+* Wenn Sie ihre Forschungsdaten in ein Repositorium hochladen, gibt es dort oft eine Maske, in die man die Metadaten eintragen soll. Das entspricht in etwa den Angaben der zwei Metadaten-Vorlagen vom KompetenzwerkD.
 
 #### Normdaten und Vokabulare
 * Gehen Sie auf die Verwendung von Normdaten oder (fachspezifischen) Vokabularen ein: Diese können helfen, Ihre Daten strukturiert und nachvollziehbar zu beschreiben.
