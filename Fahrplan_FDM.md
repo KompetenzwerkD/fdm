@@ -1,4 +1,4 @@
-### Hier entsteht zeitnah eine Schritt-für-Schritt-Anleitung rund um das Datenmanagement: der "FDM-Fahrplan"
+### Der "FDM-Fahrplan" - Schritt-für-Schritt zum Datenmanagement
 
 Forschungsdatenmanagement (FDM) spielt in jeder Phase Ihres Forschungsprojektes eine Rolle. Idealerweise beginnt dieser Prozess in der Antragsphase - auch um nötige personelle und finanzielle Aufwände einzuplanen - mit der Entwicklung einer passenden Gesamtstrategie. Während der Projektlaufzeit sollte eine kontinuierliche Anpassung und Umsetzung dieser Planungen erfolgen. So kann effektives kollaboratives Arbeiten mit anfallenden Daten gewährleistet werden ohne Aspekte wie Datensicherheit oder Nachhaltigkeit zu vernachlässigen. Dieser Prozess gipfelt in der Regel in der Zugänglichmachung von Forschungsdaten und Forschungsergebnissen entsprechend grundlegender Prinzipien wie FAIR spätestens gegen Projektende.
 
@@ -18,26 +18,30 @@ Antragsphase:
   * IT-Mitarbeiter/innen
   * Forschungsdaten-Infrastrukturen und -Repositorien
   * Ihrem KompetenzwerkD
-* Datenmanagementplan (DMP) erstellen: Gemeinsam gilt es, als Grundlage der zukünftigen Arbeit mit Forschungsdaten, möglichst frühzeitig spätere Abläufe zu planen. Dies erleichtert den späteren Start ins Projekt, da von Anfang an grundlegende Aspekte der zukünftigen Arbeit mit den Forschungsdaten feststehen, z. B. im Hinblick auf Stellenkategorien. Auch sichert dieser Ablauf die nachhaltige Aufbewahrung der Forschungsergebnisse, indem ungünstige Adhoc-Entscheidungen für grundlegende Fragestellungen verhindert werden. Zudem wird es ermöglicht, gegebenenfalls eine personelle und finanzielle Abschätzung möglicher Aufwände vor Antragsstellung zu erstellen.
+* Datenmanagementplan (DMP) erstellen: Gemeinsam gilt es, als Grundlage der zukünftigen Arbeit mit Forschungsdaten, möglichst frühzeitig spätere Abläufe zu planen. Dies erleichtert den Start ins Projekt, da von Anfang an grundlegende Aspekte der zukünftigen Arbeit mit den Forschungsdaten feststehen, z. B. im Hinblick auf Stellenkategorien. Auch sichert dieser Ablauf die nachhaltige Aufbewahrung der Forschungsergebnisse, indem ungünstige Adhoc-Entscheidungen für grundlegende Fragestellungen verhindert werden. Zudem wird es ermöglicht, gegebenenfalls eine personelle und finanzielle Abschätzung möglicher Aufwände vor Antragsstellung zu erstellen.
 
 TODO: LINK ZU UNSEREM DMP-GUIDE EINFÜGEN...
 
 Projektphase 1 - Zu Beginn des Projekts:
-* Datenhaltungsstrategie des DMP umsetzen (Speicherung, Backups usw.)
-* Wichtigste Metadaten zum Projekt zusammentragen (wir stellen Vorlage bereit - TODO: LINK ZU UNSEREN FDM-Templates)
-* Elementare Metadaten zu den zentralen Forschungsdaten des Projekts anlegen und so gut es geht bereits ausfüllen
-
-* ...
+* Datenhaltungsstrategie des DMP umsetzen
+  * Speicherung
+  * Backups
+  * Datensicherheit
+  * Erstkontakt mit Forschungsdatenrepositorium zur späteren Veröffentlichung/Archivierung herstellen (falls nicht bei Erstellung des DMP geschehen)
+* Metadaten (MD) anlegen und soweit möglich ausfüllen: Nutzen Sie hierfür gern unsere Vorlagen: TODO - LINK ZU UNSEREN FDM-Templates
+  * MD zum Projekt 
+  * MD zu den zentralen Forschungsdaten des Projekts
 
 Projektphase 2 - Während des Projekts:
+* Datenhaltungsstrategie überprüfen:
+  * Werden die Planungen eingehalten?
+  * Eventuell: Nötige Umplanungen vornehmen
 * Metadaten aktualisieren
-* Datensätze zugänglich machen entsprechend des DMP (auch durch Publikation, Lehre, Wissenstransfers)
+* Eventuell Datensätze zugänglich machen entsprechend des DMP (auch durch Publikation, Lehre, Wissenstransfers)
 * Bei Ausscheiden/Neueinstellen von Mitarbeiter/innen: Daten übergeben entsprechend des DMP
-* ...
 
 Projektphase 3 - Kurz vor Projektende:
 * Metadaten finalisieren
 * Datensätze zugänglich machen entsprechend des DMP
 * Daten archivieren
 * Daten an ein etwaiges Folgeprojekt übergeben entsprechend des DMP
-* ...
