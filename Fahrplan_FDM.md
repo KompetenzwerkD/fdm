@@ -11,20 +11,22 @@ TODO: LINK ZU UNSEREN FDM-USE-CASES
 Allgemeine Schritte:
 
 Antragsphase:
-* Forschungsdatenmanagement: Es lohnt sich, das Thema FDM früh in der Antragsphase zu thematisieren. Jetzt ist die richtige Zeit, mögliche Beteiligte zu identifizieren und zu involvieren, um gemeinsame Strategien zu entwickeln. Unterstützung können Sie finden bei:
+* Forschungsdatenmanagement: Es lohnt sich, das Thema FDM früh in der Antragsphase zu thematisieren. Jetzt ist die richtige Zeit, mögliche Beteiligte zu identifizieren und zu involvieren, um gemeinsame Strategien zu entwickeln. Unterstützung können Sie (unter anderem) finden bei:
   * Digital-Humanities-Spezialist/innen
   * Datenwissenschaftler/innen
   * Datenschutzbeauftragten
   * IT-Mitarbeiter/innen
+  * Forschungsdaten-Infrastrukturen und -Repositorien
   * Ihrem KompetenzwerkD
 * Datenmanagementplan (DMP) erstellen: Gemeinsam gilt es, als Grundlage der zukünftigen Arbeit mit Forschungsdaten, möglichst frühzeitig spätere Abläufe zu planen. Dies erleichtert den späteren Start ins Projekt, da von Anfang an grundlegende Aspekte der zukünftigen Arbeit mit den Forschungsdaten feststehen, z. B. im Hinblick auf Stellenkategorien. Auch sichert dieser Ablauf die nachhaltige Aufbewahrung der Forschungsergebnisse, indem ungünstige Adhoc-Entscheidungen für grundlegende Fragestellungen verhindert werden. Zudem wird es ermöglicht, gegebenenfalls eine personelle und finanzielle Abschätzung möglicher Aufwände vor Antragsstellung zu erstellen.
 
 TODO: LINK ZU UNSEREM DMP-GUIDE EINFÜGEN...
 
 Projektphase 1 - Zu Beginn des Projekts:
+* Datenhaltungsstrategie des DMP umsetzen (Speicherung, Backups usw.)
 * Wichtigste Metadaten zum Projekt zusammentragen (wir stellen Vorlage bereit - TODO: LINK ZU UNSEREN FDM-Templates)
 * Elementare Metadaten zu den zentralen Forschungsdaten des Projekts anlegen und so gut es geht bereits ausfüllen
-* Datenhaltungsstrategie des DMP umsetzen (Speicherung, Backups usw.)
+
 * ...
 
 Projektphase 2 - Während des Projekts:
