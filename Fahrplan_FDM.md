@@ -36,7 +36,7 @@ TODO: LINK ZU UNSEREM DMP-GUIDE EINFÜGEN...
 #### Projektphase 2 - Während des Projekts:
 * Datenhaltungsstrategie überprüfen:
   * Werden die Planungen eingehalten?
-  * Eventuell: Nötige Umplanungen vornehmen
+  * Eventuell: Nötige Korrekturen oder Umplanungen vornehmen
 * Metadaten aktualisieren
 * Eventuell Datensätze zugänglich machen entsprechend des DMP (auch durch Publikation, Lehre, Wissenstransfers)
 * Bei Ausscheiden/Neueinstellen von Mitarbeiter/innen: Daten übergeben entsprechend des DMP
